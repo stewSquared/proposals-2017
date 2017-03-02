@@ -2,6 +2,10 @@
 
 [Petro Verkhogliad (vpetro)](http://twitter.com/vpetro)
 
+[Stewart Stewart (stewinsalot)](http://twitter.com/stewinsalot)
+
+[https://github.com/stewSquared/](https://github.com/stewSquared/)
+
 Lightbend
 
 ## Abstract
